@@ -1,5 +1,9 @@
 # table-demo
 
+
+用vuejs + elementui 做的表格翻页保持勾选状态的小demo
+具体看代码的注释，写得很清楚了
+
 ## Project setup
 ```
 npm install
@@ -24,5 +28,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-用vuejs + elementui 做的表格翻页保持勾选状态的小demo
-具体看代码的注释，写得很清楚了
